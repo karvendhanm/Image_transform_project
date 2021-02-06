@@ -1,5 +1,7 @@
-//
-// Created by John on 2/6/2021.
-//
-
+#include <cmath>
+#include <iostream>
 #include "HSLAPixel.h"
+using namespace std;
+
+namespace uiuc {
+}
